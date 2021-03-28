@@ -1,0 +1,15 @@
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/obj/Debug/net5.0/clases.csprojAssemblyReference.cache
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/obj/Debug/net5.0/clases.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/obj/Debug/net5.0/clases.AssemblyInfoInputs.cache
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/obj/Debug/net5.0/clases.AssemblyInfo.cs
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/obj/Debug/net5.0/clases.csproj.CoreCompileInputs.cache
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/bin/Debug/net5.0/clases.deps.json
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/bin/Debug/net5.0/clases.runtimeconfig.json
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/bin/Debug/net5.0/clases.runtimeconfig.dev.json
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/bin/Debug/net5.0/clases.dll
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/bin/Debug/net5.0/ref/clases.dll
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/bin/Debug/net5.0/clases.pdb
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/obj/Debug/net5.0/clases.dll
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/obj/Debug/net5.0/ref/clases.dll
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/obj/Debug/net5.0/clases.pdb
+/Users/ramonasantos/Desktop/ProgramacionC#/Aplicacion1_Oo/clases/obj/Debug/net5.0/clases.genruntimeconfig.cache
